@@ -1,0 +1,18 @@
+<div class="news_feed1">
+        	<div class="news_feed1_img"><img src="images/Baby-Food-Recipe-Carrots-Broccoli-Cheese.jpg" alt="Carrots Broccoli Cheese" /></div>
+            <div class="news_feed1_story"><h1>Braculi Cheese &amp; Carrot</h1>
+            In this section we'll see the details about the dish and its recipe.</div>
+        </div>
+        <br clear="all" />
+        <div class="news_feed2">
+        	<div class="news_feed2_img"><img src="images/Homemade-baby-food1.jpg" /></div>
+            <div class="news_feed2_story"><h1>Mashed Sweet Potato</h1>In this section we'll see the details about the dish and its recipe.</div>
+        </div>
+        <br clear="all" />
+
+
+<img src="images/avocado.jpg" />
+    	<img src="images/carrot.jpg" />
+        <img src="images/lasagna.jpg" />
+        <img src="images/loti.jpg" />
+        <img src="images/mashed_pea.jpg" />

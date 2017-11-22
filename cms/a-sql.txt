@@ -1,0 +1,1 @@
+INSERT INTO `babycare`.`tbl_recipe` (`ID`, `Name`, `Class`, `Type`, `upload_date`) VALUES (NULL, 'Chicken', 'featured', 'industries', '2015-08-14 14:38:40')
